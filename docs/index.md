@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome To My E-Portfolio - About Me 
 
-You can use the [editor on GitHub](https://github.com/Liana1995/Liana-Cybersecurity-MsC/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+I am Liana Harvyliuk, currently reading a Master's Degree in Information and Cybersecurity. I am from Ukraine, currently living and working for a Cybersecurity company in UAE.
+In 2018, I decided to move from hospitality management to following a career in cybersecurity. I was allowed to work for a UK Based Cybersecurity Advisory
+firm in the UAE, where I have been focused on developing my skills in a broad range of subjects, including by not limited to risk, control, and compliance management,
+infrastructure and application security, third-party risk and more recently developing an internal risk assessment methodology.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Modul Summary 
+Over the next two years, I will be undertaking the following Modules. Please note that this is a work in progress and this section will be updated to include separate pages for each model, they include:
 
-### Markdown
+- Launching in Cybersecurity 
+- Network and Information Management 
+- Information Risk Management 
+- Secure Software Development 
+- Security Systems Architecture 
+- The Human Factor 
+- Principles of Digital Forensics and Cyber Law 
+- Research methods and professional practice 
+- MSc Cybersecurity Project 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What I have learned so far...
 
-```markdown
-Syntax highlighted code block
+Currently focused on module 1, which is covering the basic tenants of cybersecurity, undertaking the following subjects 
+- CIA 
+- Understanding the different roles and responsibilities  of cyber security professionals 
+- Better understanding of governance frameworks and the role ethics plays within cybersecurity 
+- Better understanding of infrastructure security 
+- Using Shell as a case study to better understand the different types of attacks businesses face.
 
-# Header 1
-## Header 2
-### Header 3
+### Skills Matrix and Development 
 
-- Bulleted
-- List
+This is under development 
 
-1. Numbered
-2. List
+### My contact 
 
-**Bold** and _Italic_ and `Code` text
+Lh21839@essex.ac.uk
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Liana1995/Liana-Cybersecurity-MsC/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
