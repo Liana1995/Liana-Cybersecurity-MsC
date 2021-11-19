@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome To My E-Protfilio 
 
-You can use the [editor on GitHub](https://github.com/Liana1995/Liana-Cybersecurity-MsC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Liana Harvyliuk, currently reading a Masters Degree in Information and Cybersecurity. I am from Ukraine, currently living and working for a Cybersecuirty In 2018, I made decision to move from hospitality management to following a career in cybersecurity. I was given an opportunity to work for a UK Based Cybersecurity Advisory
+firm in the UAE, where I have been focused on developing my skills in a broad range of subjects, including by not limited to risk, control and compliance management,
+infrastructure and application security, third-party risk and more recently developing an internal risk assessment methodology.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
