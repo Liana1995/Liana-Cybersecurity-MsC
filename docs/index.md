@@ -8,7 +8,7 @@ infrastructure and application security, third-party risk and more recently deve
 ### Modul Summary 
 Over the next two years, I will be undertaking the following Modules. Please note that this is a work in progress and this section will be updated to include separate pages for each model, they include:
 
-- [Launching in Cybersecurity](Liana-Cybersecurity-MsC/docs/ln.md)
+- [Launching in Cybersecurity](docs/ln.md)
 - Network and Information Management 
 - Information Risk Management 
 - Secure Software Development 
