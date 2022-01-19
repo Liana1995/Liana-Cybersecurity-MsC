@@ -1,4 +1,4 @@
-# Heading level 1 ## Welcome To My E-Portfolio - About Me 
+# Heading level 1 Welcome To My E-Portfolio - About Me 
 
 I am Liana Harvyliuk, currently reading a Masters Degree in Information and Cybersecurity. I am from Ukraine, currently living and working for a Cybersecurity company in UAE.
 In 2018, I made decision to move from hospitality management to following a career in cybersecurity. I was given an opportunity to work for a UK Based Cybersecurity Advisory
@@ -9,7 +9,7 @@ infrastructure and application security, third-party risk and more recently deve
 ### Modul Summary 
 Over the course of the next two years, I will be undertaking the following Modules. Please note that this is a work in progress and this section will be updated to include separate pages for each model, they include:
 
-- [Launching in Cybersecurity] {Liana-Cybersecurity-MsC/Launching) 
+- [Launching in Cybersecurity] (Liana-Cybersecurity-MsC/Launching) 
 - Network and Information Management 
 - Information Risk Management 
 - Secure Software Development 
